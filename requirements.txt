@@ -1,0 +1,4 @@
+PyAudio==0.2.11
+pygame==2.1.2
+keyboard==0.13.5
+numpy==1.21.5
